@@ -1,51 +1,34 @@
-# Paper
-
-Title:
-
-Journal:
-
-Date:
-
-Authors:
-
----
-
-## TL;DR
-
-...
-
----
-
-## Problem
-
-...
-
----
-
-## Methods
-
-...
-
----
-
-## Key Results
-
-...
-
----
-
-## Why it Matters
-
-...
-
----
-
-## My Thoughts
-
-...
-
----
-
-## Questions
-
-...
+genome-journal/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── papers/
+│   ├── 2026/
+│   │   ├── 07/
+│   │   │   ├── 2026-07-12-template.md
+│   │   │   └── README.md
+│   │   └── README.md
+│   └── README.md
+│
+├── news/
+│   ├── 2026/
+│   └── README.md
+│
+├── monthly-reviews/
+│   ├── 2026-07.md
+│   └── README.md
+│
+├── resources/
+│   ├── sequencing.md
+│   ├── ai-in-biotech.md
+│   ├── genomics.md
+│   └── useful-links.md
+│
+├── templates/
+│   ├── paper-template.md
+│   ├── news-template.md
+│   └── monthly-review-template.md
+│
+└── images/
