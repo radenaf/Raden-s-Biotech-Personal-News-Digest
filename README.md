@@ -21,6 +21,6 @@ Advance my career by going into a masters or PHD program.
 
 ## Contact
 
-LinkedIn:
+LinkedIn: www.linkedin.com/in/rdnaffiqazizi
 
-Email:
+Email: radenaffiqazizi@gmail.com
