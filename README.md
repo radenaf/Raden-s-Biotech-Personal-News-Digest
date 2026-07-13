@@ -1,7 +1,7 @@
 # Raden's-Biotech-Personal-News-Digest
 A curated collection of genomics, sequencing, and AI in biotechnology papers with critical summaries and personal commentary.
 
-Final-year Molecular Biology graduate from Malaysia.
+Final-year Molecular Biology undergraduate from Malaysia.
 
 Currently Interning at Institute Of Medical Research NIH MALAYSIA
 ## Interests
