@@ -1,4 +1,4 @@
-# Research Digest #003 Aptamer Bioinformatics
+# Biotech Digest #003 Aptamer Bioinformatics
 
 **Date:** 140726 
 **Paper:**  Aptamer Bioinformatics 
