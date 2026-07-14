@@ -30,4 +30,4 @@ Most of the biotech hubs listed here are well known developed country. My hope i
 ---
 
 ## Tags
-#Biotech #AI #Genomics
+#Biotech 
